@@ -1,0 +1,9 @@
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.meta linguist-vendored
+ProjectSettings/* linguist-vendored
+Packages/* linguist-vendored
+MikuDance/* linguist-vendored
