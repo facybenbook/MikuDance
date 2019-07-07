@@ -8,7 +8,9 @@ A Unity based Rhythm Game starring Hatsune Miku created in addition to a video w
 " target="_blank"><img src="http://img.youtube.com/vi/dnDmzh_6vt8/0.jpg" 
 alt="Gameplay video" width="520" height="360" border="10" /></a>
 
+* <b> Screen form Gameplay </b>
 
+![Bézier curve](images/miku.jpg?raw=true "Bézier curve")
 
 * <b> Build </b>
 
